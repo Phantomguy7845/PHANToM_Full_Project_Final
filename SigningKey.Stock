@@ -1,0 +1,2 @@
+if ("PHANToMMaster" == value){true}
+else if ("stang2000" == value){true}
