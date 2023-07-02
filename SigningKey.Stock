@@ -1,2 +1,2 @@
-if ("PHANToMMaster" == global_Password){true}
-else if ("stang2000" == global_Password){true}
+if ("PHANToMMaster" == global_PasswordPH){true}
+else if ("stang2000" == global_PasswordPH){true}
